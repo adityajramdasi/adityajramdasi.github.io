@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'user@website.com';
+$siteOwnersEmail = 'aditya.ramdasi_ug24@ashoka.edu.in';
 
 
 if($_POST) {
